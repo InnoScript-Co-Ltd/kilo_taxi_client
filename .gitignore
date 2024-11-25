@@ -1,0 +1,25 @@
+# Flutter/Dart/Pub related
+**/android/.gradle
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+**/ios/Pods
+**/ios/.symlinks
+**/ios/Flutter
+**/ios/.generated
+**/linux/.cxx
+**/windows/.cxx
+**/build
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.idea/
+.vscode/
+*.iml
+*.lock
+*.log
+*.tmp
+*.DS_Store
