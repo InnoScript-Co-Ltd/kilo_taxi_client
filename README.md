@@ -1,4 +1,4 @@
-# inno_kilotaxi_client
+# kilo_client_app
 
 A new Flutter project.
 
